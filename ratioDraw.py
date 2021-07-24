@@ -37,4 +37,5 @@ axs[1].set_ylabel('Y1/Y',size=15)
 
 
 axs[0].set_title("put the title here")
+plt.savefig('NameOfTheOutPut.pdf')  
 plt.show()
